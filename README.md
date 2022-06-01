@@ -8,7 +8,7 @@ Contém os exercícios e desafios de código e projeto para fixação das aulas 
 
 #### Introdução ao javascript
 
-- Contador
-- To-do list
+- Contador (Incluído range de valores e botão para zerar o contador)
+- To-do list (Incluído botão para remover tarefa)
 
 
