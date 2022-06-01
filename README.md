@@ -6,7 +6,9 @@ Contém os exercícios e desafios de código e projeto para fixação das aulas 
 
 ### Módulo III
 
-- Introdução ao javascript
+#### Introdução ao javascript
 
-     Exercicio Contador e To-do list
+- Contador
+- To-do list
+
 
