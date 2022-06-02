@@ -6,7 +6,7 @@ Contém os exercícios e desafios de código e projeto para fixação das aulas 
 
 ### Módulo III
 
-#### Introdução ao javascript
+#### 2-Introdução ao javascript
 
 - Contador (Incluído range de valores e botão para zerar o contador)
 - To-do list (Incluído botão para remover tarefa)
