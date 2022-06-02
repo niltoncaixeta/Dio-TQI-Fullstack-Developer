@@ -15,4 +15,8 @@ Contém os exercícios e desafios de código e projeto para fixação das aulas 
 
  - Aula 1 - o que danado é JavaScript
  - Aula 2 - Entendendo variáveis e seus valores
+ - Aula 3 - Vetores e objetos
+ - Aula 4 - Estruturas condicionais e de descisão
+ - Aula 5 - Funções e suas particularidades
+ - Aula 6 - Aprofundando em funções
  
