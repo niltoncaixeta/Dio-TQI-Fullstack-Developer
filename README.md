@@ -19,4 +19,8 @@ Contém os exercícios e desafios de código e projeto para fixação das aulas 
  - Aula 4 - Estruturas condicionais e de descisão
  - Aula 5 - Funções e suas particularidades
  - Aula 6 - Aprofundando em funções
+
+#### 4-Sintaxe e Operadores
+
+ Atividade prática: criar função comparaNumeros.
  
