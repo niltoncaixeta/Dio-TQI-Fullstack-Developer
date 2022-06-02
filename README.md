@@ -22,5 +22,5 @@ Contém os exercícios e desafios de código e projeto para fixação das aulas 
 
 #### 4-Sintaxe e Operadores
 
- Atividade prática: criar função comparaNumeros.
+- Atividade prática: criar função comparaNumeros.
  
