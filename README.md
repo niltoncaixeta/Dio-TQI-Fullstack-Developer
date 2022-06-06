@@ -28,3 +28,6 @@ Contém os exercícios e desafios de código e projeto para fixação das aulas 
 
 - Atividade prática: criar função palindromo e substituiNumerosPares.
 
+#### 6-Funções
+
+- Atividade prática: criar função alunosAprovados.js e this.js.
